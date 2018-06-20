@@ -17,7 +17,7 @@ while(monChiffre <= 100) {
     document.write (monChiffre + "<br>");
 
     monChiffre++;
-// }
+}
 
 
 
@@ -61,3 +61,6 @@ for (let index = 0; index < mois.length; index++) {
 // Unshift : pour ajouter un élément dans le tableau au début.
 // Pop: retire le dernier élément du tableau.
 // Shift: retire le 1er élément du tableau.
+
+
+
