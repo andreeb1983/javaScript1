@@ -372,23 +372,16 @@ var name = document.getElementsByName('azerty');
 var imgs = document.getElementsByTagName('img');
 
 // for (var i = 0; i < imgs.length; i++) {
-
 //   // alert("Élément n° " + (i + 1) + ": " + imgs[i]);
-
 // }
 
 
-
 // var query = document.querySelector('#maDiv .maClasse p');
-
 // var queryAll = document.querySelectorAll('#maDiv .maClasse p');
 
 
-
 // alert(query.innerHTML);
-
 // alert(queryAll.length);
-
 // alert(queryAll[0].innerHTML + "<br>" + queryAll[1].innerHTML + "<br>" + queryAll[2].innerHTML);
 
 // for(var i = 0; i < queryAll.length; i++){
